@@ -110,10 +110,7 @@ Models were trained and evaluated with automatic reporting and post-prediction f
 
 ## ⚖️ License
 
-- Code: MIT License (see LICENSE file)
-- Dictionaries & annotations: Creative Commons BY-NC 4.0 (non-commercial use only)
-- Corpora: Not included – request access if needed
-
+ MIT License (see LICENSE file)
 ---
 
 For academic or research use, please cite this repository or the original thesis.
