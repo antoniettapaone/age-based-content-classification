@@ -9,6 +9,7 @@ This repository contains code and documentation for the PhD research project by 
 /dictionaries/      → Custom dictionaries for violence, drugs, and bad language
 /annotations/       → Annotation guidelines
 /corpora/           → Annotated English and Italian corpora, organized by age group folders (e.g., 0_bambini, 1_ragazzi, 2_adulti)
+/semantic_analysis/ → Scripts for semantic similarity computation and network generation (Word2Vec, cosine similarity, Gephi-ready output)
 /README.md          → This file
 
 ## 📑 Description
@@ -80,6 +81,21 @@ Please cite: Maisto, Alessandro, Giandomenico Martorelli, Antonietta Paone, and 
 ⚠️ The NRC Emotion Intensity Lexicon (Mohammad & Turney, 2013; Mohammad et al., 2018) was also extended and translated into Italian to assist with emotional analysis. The translated and modified version is not included in this repository due to redistribution restrictions. Researchers interested in this resource may contact the author for academic use only, or refer to the original version available at:
 [[https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm](https://saifmohammad.com/WebPages/AffectIntensity.htm)]
 
+### 🔧 Word2Vec Model Training
+
+The Word2Vec models used in this project were trained from scratch using the Gensim library:
+
+- **Italian Word2Vec**: trained on the PAISÀ corpus (Lyding et al., 2014)
+- **English Word2Vec**: trained on the British National Corpus (BNC)
+
+Key parameters used:
+- vector size: 300
+- window: 5
+- min_count: 2
+- sg: 1 (skip-gram model)
+
+⚠️ The corpora and trained models are not included in this repository due to copyright restrictions.  
+Researchers can recreate the models using public versions of PAISÀ and BNC.
 
 ## ▶️ Execution (Colab-based)
 
