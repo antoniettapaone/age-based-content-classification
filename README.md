@@ -1,5 +1,5 @@
 
-# Safeguarding Minors: Age-Based Classification of Online Multimedia Content
+# Safeguarding Minors: a Study on Automatic Age-based Classification of Online Multimedia Content using Text Transcripts 
 
 This repository contains code and documentation for the PhD research project by Antonietta Paone on automatically classifying online multimedia content by age appropriateness using NLP and machine learning techniques.
 
