@@ -156,7 +156,7 @@ else:
         titles_train, titles_test = [titles[i] for i in train_index], [titles[i] for i in test_index]
         texts_train, texts_test = [texts[i] for i in train_index], [texts[i] for i in test_index]
 
-        # Cambia il modello CNN con LSTM
+        
         model = create_lstm_model()
 
         # Addestramento del modello LSTM con tqdm per visualizzare la barra di avanzamento
