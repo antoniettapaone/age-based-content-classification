@@ -25,7 +25,8 @@ import numpy as np
 from google.colab import drive
 drive.mount('/content/drive')
 
-# Definizione del percorso dei dati
+# Load data from your Google Drive
+# Replace this path with your own if you're running locally or from a different Drive
 data_path = '/content/drive/My Drive/esperimento'
 
 # Funzione per caricare i dati
