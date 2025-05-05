@@ -86,7 +86,7 @@ Please cite: Maisto, Alessandro, Giandomenico Martorelli, Antonietta Paone, and 
 The Word2Vec models used in this project were trained from scratch using the Gensim library:
 
 - **Italian Word2Vec**: trained on the PAISÀ corpus (Lyding et al., 2014)
-- **English Word2Vec**: trained on the British National Corpus (BNC)
+- **English Word2Vec**: trained on the British National Corpus (Leech 1992)
 
 Key parameters used:
 - vector size: 300
