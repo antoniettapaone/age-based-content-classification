@@ -109,8 +109,8 @@ drive.mount('/content/drive')
 Models were trained and evaluated with automatic reporting and post-prediction filtering.
 
 ## ⚖️ License
+MIT License (see LICENSE file)
 
- MIT License (see LICENSE file)
 ---
 
 For academic or research use, please cite this repository or the original thesis.
