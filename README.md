@@ -7,8 +7,7 @@ This repository contains code and documentation for the PhD research project by 
 
 /code/              → Python and notebook scripts (Colab-based)
 /dictionaries/      → Custom dictionaries for violence, drugs, and bad language
-/models/            → Fine-tuned models or checkpoints (if shared)
-/annotations/       → Annotation formats or examples (no raw corpora)
+/annotations/       → Annotation formats or examples
 /README.md          → This file
 
 ## 📑 Description
