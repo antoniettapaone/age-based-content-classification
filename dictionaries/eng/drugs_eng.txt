@@ -260,7 +260,7 @@ Bananas
 Snowflake
 E-Juice
 Birria
-Yagé
+YagÃ©
 Cosmic Blast
 Ruffies
 Gak
@@ -327,7 +327,7 @@ O Bomb
 Stinkweed
 Moon gas
 Robo
-Poor Man’s PCP
+Poor Manâ€™s PCP
 Contin
 Thom
 Kiddie Coke
@@ -342,7 +342,7 @@ Cigar
 Aimies
 Adderall
 Mexican Valium
-Businessman’s Special
+Businessmanâ€™s Special
 Scarface
 Butts
 dimensions
@@ -380,7 +380,7 @@ Veeks
 Tabs
 Nembutal
 Oat 
-Poor man’s methadone
+Poor manâ€™s methadone
 La Rocha
 Skunk
 at_least
@@ -410,7 +410,7 @@ Vitamin X
 JUULing
 Pep Pills
 Joy Juice
-Diviner’s Sage
+Divinerâ€™s Sage
 battery head
 toke
 good kush
