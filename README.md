@@ -7,7 +7,8 @@ This repository contains code and documentation for the PhD research project by 
 
 /code/              → Python and notebook scripts (Colab-based)
 /dictionaries/      → Custom dictionaries for violence, drugs, and bad language
-/annotations/       → Annotation formats or examples
+/annotations/       → Annotation guidelines
+/corpora/           → Annotated English and Italian corpora, organized by age group folders (e.g., 0_bambini, 1_ragazzi, 2_adulti)
 /README.md          → This file
 
 ## 📑 Description
