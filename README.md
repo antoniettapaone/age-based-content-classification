@@ -56,6 +56,7 @@ Three domain-specific dictionaries were created manually and semi-automatically:
 - **Violence Dictionary**
 - **Drug Dictionary**
 - **Bad Language Dictionary**
+- *Bad Words list*
 
 The NRC Emotion Intensity Lexicon was also extended and translated into Italian to assist with emotional analysis.
 
